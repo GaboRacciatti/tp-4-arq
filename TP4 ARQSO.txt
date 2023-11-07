@@ -1,0 +1,1 @@
+Tuve que hacer unas modificaciones en el codigo para optimizar y lograr el funcionamiento de la aplicacion, costo agregar las importaciones de libreria, tuve que editar archivos de texto, pero lo pude realizar.
